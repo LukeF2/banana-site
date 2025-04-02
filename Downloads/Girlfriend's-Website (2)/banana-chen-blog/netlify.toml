@@ -1,5 +1,5 @@
 [build]
-  base = "banana-chen-blog"
+  base = "banana-chen-blog/banana-chen-blog"
   command = "npm run build"
   publish = ".next"
 
